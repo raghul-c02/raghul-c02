@@ -1,7 +1,7 @@
 ![Beige Yellow Minimalist Blog Graphic Designer LinkedIn Article Cover Image](https://user-images.githubusercontent.com/109713095/228436589-4c796474-1f84-483b-ba43-128867b1bd66.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghul-c02&label=Profile%20views&color=0e75b6&style=flat" alt="raghul-c02" /> </p>
 
-
+<h4 align="left"><b>About Me!</b></h3>
 
 -  I’m currently working on **Unlocking the World with Ultrasonic Glass: A Guide for Blind People**
 
