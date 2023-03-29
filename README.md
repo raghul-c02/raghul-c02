@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Raghul C</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghul-c02&label=Profile%20views&color=0e75b6&style=flat" alt="raghul-c02" /> </p>
 
-- 🔭 I’m currently working on **Unlocking the World with Ultrasonic Glass: A Guide for Blind People**
+-  I’m currently working on **Unlocking the World with Ultrasonic Glass: A Guide for Blind People**
 
-- 🌱 I’m currently learning **Javascript,C,C++**
+-  I’m currently learning **Javascript,C,C++**
 
-- 💬 Ask me about **C and frontend**
+-  Ask me about **C and frontend**
 
-- 📫 How to reach me **raghulgurusamy0@gmail.com**
+-  How to reach me **raghulgurusamy0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
