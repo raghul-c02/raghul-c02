@@ -3,11 +3,10 @@
 
 <h4 align="left"><b>About Me!</b></h3>
 
--  I’m currently working on **Unlocking the World with Ultrasonic Glass: A Guide for Blind People**
 
--  I’m currently learning **Javascript,C,C++**
+-  I’m currently learning **Javascript**
 
--  Ask me about **C and frontend**
+-  Ask me about **frontend**
 
 -  How to reach me **raghulgurusamy0@gmail.com**
 
